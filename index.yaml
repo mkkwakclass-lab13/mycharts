@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  eventapp-lab13:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-21T10:26:30.671846+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 514c2377d91ef6dd9d630cb697df035c22594eb22265a44f675a0f2e1408ceb1
+    name: eventapp-lab13
+    type: application
+    urls:
+    - https://mkkwakclass-lab13.github.io/mycharts/eventapp-lab13-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-21T10:26:30.670634+09:00"
